@@ -9,6 +9,9 @@ const Container = styled.div`
   align-items: center;
   padding-top: 5rem;
   flex-direction: column;
+  @media (max-width: 600px) {
+    margin-top: 20rem;
+  }
 `;
 const Button = styled.button`
   background: -webkit-linear-gradient(
