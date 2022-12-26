@@ -1,3 +1,3 @@
-# Generador de Frases de Breaking Bad
+# Breaking Bad Phrases
 
-[Ir al sitio web](https://breakingbad-enridev.netlify.app/ "Frases de Breaking Bad")
+[See the website](https://cthulhuscode.github.io/breakingbad-react.js/ "Breaking Bad phrases")
