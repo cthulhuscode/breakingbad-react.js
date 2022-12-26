@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/breakingbad-react.js/static/css/main.a1eb6df4.css",
+    "main.js": "/breakingbad-react.js/static/js/main.65ed8d41.js",
+    "static/media/logo.svg": "/breakingbad-react.js/static/media/logo.0f9b6e901d17382f3794.svg",
+    "index.html": "/breakingbad-react.js/index.html",
+    "main.a1eb6df4.css.map": "/breakingbad-react.js/static/css/main.a1eb6df4.css.map",
+    "main.65ed8d41.js.map": "/breakingbad-react.js/static/js/main.65ed8d41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1eb6df4.css",
+    "static/js/main.65ed8d41.js"
+  ]
+}
