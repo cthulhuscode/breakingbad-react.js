@@ -40,15 +40,13 @@ function App() {
   const [quote, setQuote] = useState({});
 
   const getApiData = async () => {
-    const api = await fetch(
-      "https://breaking-bad-quotes.herokuapp.com/v1/quotes"
-    );
+    const api = await fetch("https://api.breakingbadquotes.xyz/v1/quotes");
     const quote = await api.json();
     setQuote(quote[0]);
   };
 
   // useEffect
-  // Cargar una frase
+  // Load a phrase
   useEffect(() => {
     getApiData();
   }, []);

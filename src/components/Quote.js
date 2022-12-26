@@ -38,9 +38,6 @@ const QuoteContainer = styled.div`
 `;
 
 const Quote = ({ quote }) => {
-  // Checar si el objeto contiene algo
-  //if (Object.keys(quote).length === 0) return null;
-
   return (
     <QuoteContainer>
       <h1>{quote.quote}</h1>
